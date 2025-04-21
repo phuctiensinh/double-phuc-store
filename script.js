@@ -19,7 +19,7 @@ let allProducts = [
             weight: '1.8kg',
             battery: '70Wh'
         },
-        image: 'images/Laptop Pro 2023.jpg'
+        image: 'images/Laptop Gaming Elite.jpg'
     },
     {
         name: 'Laptop Ultra 2023',
@@ -109,7 +109,7 @@ let allProducts = [
             weight: '2.8kg',
             battery: '99Wh'
         },
-        image: 'images/Laptop Gaming Elite.jpg'
+        image: 'images/Laptop Pro 2023.jpg'
     },
     {
         name: 'Laptop UltraBook',
